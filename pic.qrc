@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>OIP.jpg</file>
+        <file>OIP-C.jpg</file>
+        <file>OIP-removebg-preview.ico</file>
+        <file>set.png</file>
+    </qresource>
+</RCC>
